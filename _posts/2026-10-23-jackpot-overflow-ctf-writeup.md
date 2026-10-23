@@ -1,6 +1,6 @@
 ---
 title: "Jackpot Overflow: A Casino-themed CTF, Solved Table by Table"
-date: 2026-10-23 21:30:00 +0700
+date: 2026-10-23 09:00:00 +0700
 categories:
   - writeups
 tags:
